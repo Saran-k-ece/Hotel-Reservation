@@ -10,8 +10,7 @@ lerna-debug.log*
 # Runtime data
 *.local
 
-# Dependency directories
-node_modules/
+
 
 # Package files
 package.json
