@@ -1,0 +1,3 @@
+[submodule "Client/Hotel_Reservation_App/node_modules/.cache/gh-pages/NewSubmodule"]
+	path = Client/Hotel_Reservation_App/node_modules/.cache/gh-pages/NewSubmodule
+	url = https://github.com/Saran-k-ece/Hotel-Reservation.git
