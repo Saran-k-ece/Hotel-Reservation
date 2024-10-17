@@ -49,7 +49,7 @@ import  l4        from   './l4.jpg'
 import  l5        from   './l5.jpg'
 import  l6        from   './l6.jpg'
 import glimpse1   from    './glimpse1.mp4'
-
+import glimpse2   from    './glimpse2.mp4'
 import ihcl1      from    './ihcl1.jpg'
 import ihcl2     from    './ihcl2.jpg'
 import ihcl3      from    './ihcl3.jpg'
@@ -120,6 +120,7 @@ export const assets = {
     l5,
     l6,
     glimpse1,
+    glimpse2,
     ihcl1, 
     ihcl2, 
     ihcl3, 

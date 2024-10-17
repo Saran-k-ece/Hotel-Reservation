@@ -99,6 +99,9 @@ const PropertyList = () => {
       <SwiperSlide className='custom-slides-2'>
         <video src={assets.glimpse1} autoPlay loop muted></video>
       </SwiperSlide>
+      <SwiperSlide className='custom-slides-2'>
+        <video src={assets.glimpse2} autoPlay loop muted></video>
+      </SwiperSlide>
       
       ...
     </Swiper>
