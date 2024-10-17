@@ -27,7 +27,5 @@ package-lock.json
 *.sln
 *.sw?
 
-# Optional: Ignore build directories (like dist, build)
-dist/
-build/
+
 
