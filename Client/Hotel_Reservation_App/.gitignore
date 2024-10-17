@@ -12,9 +12,7 @@ lerna-debug.log*
 
 
 
-# Package files
-package.json
-package-lock.json
+
 
 # Editor directories and files
 .vscode/*
