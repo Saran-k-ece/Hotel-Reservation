@@ -11,6 +11,8 @@ lerna-debug.log*
 *.local
 
 
+node_modules/
+
 
 
 
