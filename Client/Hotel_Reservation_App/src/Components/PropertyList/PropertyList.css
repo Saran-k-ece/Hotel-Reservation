@@ -57,7 +57,7 @@
 .glimpse h1{
     text-align: center;
     color: green;
-    font-size: 30px;
+    font-size: 45px;
     letter-spacing: 2px;
     text-decoration: underline;
 }
@@ -102,6 +102,8 @@
     font-weight: 500;
     grid-column: span 3;
     margin-bottom: 20px;
+    text-align: center;
+    font-size: 45px;
 }
 
 .guest-loves-items {

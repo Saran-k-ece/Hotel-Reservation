@@ -16,9 +16,9 @@ const Home = () => {
       <div className='featured-heading'>
        <h1>Properties</h1>
        </div>
-       <Featured/>
+       <Featured/> 
        <div className="home-title">
-        <h3>Browse by property type</h3>
+        <h1>Browse by property type</h1>
        </div>
        <PropertyList />
        <Email />
